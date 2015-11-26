@@ -1,0 +1,24 @@
+{
+  "name": "dusktodawn",
+  "version": "1.0.0",
+  "description": "The best app in the world - It is pretty great. Stars 'n shit.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hasoft-au/dusktodawn.git"
+  },
+  "author": "HaSoft",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hasoft-au/dusktodawn/issues"
+  },
+  "homepage": "https://github.com/hasoft-au/dusktodawn#readme",
+  "dependencies": {
+    "bower": "^1.6.6",
+    "git": "^0.1.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}

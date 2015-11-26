@@ -1,0 +1,13 @@
+{
+  "name": "dusktodawn",
+  "description": "The best app in the world - It is pretty great. Stars 'n shit.",
+  "main": "index.js",
+  "authors": [
+    "HaSoft"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ]
+}
